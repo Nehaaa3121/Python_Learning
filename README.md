@@ -4,5 +4,8 @@
 
 # Following are the Youtube Channels from where i learned about python
    1. Ws Cube Tech (For Basic)
-   2. BroCode (For Oops Concept)
+   2. BroCode (For Oops Concpt)
    3. Anuj Bhaiya
+
+
+![Alt Text](https://images.ctfassets.net/23aumh6u8s0i/6uBzrqHNLlSAoER6HtgDN0/accd8f871b1de37f472b94da4346afa2/python-hero)
