@@ -1,3 +1,9 @@
-print("hello world")
-print("this is my very first program")
-print("mission 29 hours")
+# Write a program to display a person's name ,age, and address in different lines
+
+name = "Neha Choudhary"
+age = "21"
+address = " Delhi ,India"
+
+print(name)
+print(age)
+print(address)
